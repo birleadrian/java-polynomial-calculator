@@ -1,4 +1,4 @@
-# Java Polynomial Calculator
+# Java Polynomial Calculator [:computer:]
 
 This is a calculator for polynomials.
 
@@ -18,8 +18,7 @@ You need a Java IDE like Eclipse , IntelliJ or NetBeans.
 
 * [Java](https://www.java.com/) - The programming language used.
 * [Maven](https://maven.apache.org/) - Dependency Management
-
-## Authors
+## Authors:euro:
 
 * **Adrian Birle** - *Creator* - [Adrian Birle](https://github.com/birleadrian)
 
